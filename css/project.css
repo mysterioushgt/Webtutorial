@@ -1,0 +1,260 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    background-color: #202020;
+    width: 100%;
+    height: 49px;
+   
+}
+.text{
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px;
+}
+.box1{
+height: 100px;
+width: 100%;
+display: flex;
+background-color: #fff;
+
+}
+
+.minibox{
+    height: 25px;
+    width: 250px;
+    margin: 40px 60px;
+}
+.minibox1{
+    height: 80px;
+    width: 300px;
+    margin: 20px 100px 0px 280px;
+}
+.minibox2{
+    height: 30px;
+    width: 300px;
+    margin: 35px;
+}
+
+.box2{
+    background: url(https://cdn.shopify.com/s/files/1/1459/5894/products/17_2048x_f31ae036-21f4-45c0-86b9-d29774c3f6f7.png?v=1648896687);
+    width: 100%;
+    height: 650px;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+
+}
+.boxmini2{
+    padding-top: 250px;
+    line-height: 100px;
+    padding-left: 85px;
+}
+
+ .box3{
+    height: 300px;
+    width: 100%;
+    display: flex;
+    padding-left: 50px;
+ }
+ .box3a{
+
+    height:300px;
+    width: 300px;
+    font-size: 18px;
+ }
+.box4{
+    background: url(https://cdn.shopify.com/s/files/1/0907/2228/files/1_725c306e-386c-4914-bb42-72619775e028_1024x1024.jpg?v=1675233478);
+    width: 100%;
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    background-size: auto;
+}
+.box4a{
+    padding-top: 220px;
+    line-height: 100px;
+    padding-left: 85px;
+}
+.box5{
+    display: flex;
+}
+.box5a{
+    height: 650px;
+    width: 650px;
+    margin-left: 60px;
+}
+.box5b{
+    height: 300px;
+    width: 300px;
+    margin-left: 120px;
+    line-height: 60px;
+    margin-top: 180px;
+}
+.btn0:hover{
+    background-color: #37393a !important;
+}
+.box6{
+    background: #000000;
+    height: 1380px;
+    width: 100%;
+}
+.box6A{
+    display: flex;
+}
+.box6a{
+    height: 580px;
+    width: 750px;
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/5_8b6db216-3434-46af-afbf-c30498d8e56b_720x.jpg?v=1677307187);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 100px 30px 0px 45px;
+
+}
+.box6aa{
+    padding-top: 425px;
+    padding-left: 25px;
+    line-height: 70px;
+}
+.btn:hover{
+    background-color: #000000;
+    color: white;
+}
+.box6b{
+    height: 580px;
+    width: 750px;
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/6_d05f6b5b-25e6-4b0f-b91c-7d03d614709b_720x.jpg?v=1677307021);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 100px 40px 0px 0px;
+}
+.box6B{
+    display: flex;
+}
+.box6c {
+    height: 550px;
+    width: 550px;
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/Website_Banner_Symmetry_mobile_view_10_540x.jpg?v=1677390877);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px 30px 0px 45px;
+}
+.box6cc{
+    padding-top: 400px;
+    padding-left: 25px;
+    line-height: 70px;
+}
+.box6d {
+    height: 550px;
+    width: 780px;
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/8_8b01de82-c779-4eaf-b7ee-adf0b6d9c4ce_720x.jpg?v=1677307187);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px 40px 0px 0px;
+}
+.box7{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    position: relative;
+}
+.box7a{
+    height: 500px;
+    width: 500px;
+    margin-top: 120px;
+    margin-left: 40px;
+}
+.maindiv{
+    position:absolute;
+}
+.classone{
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/Website_Banner_Symmetry_mobile_view_360x.jpg?v=1677270497);
+    background-repeat: no-repeat;
+    z-index: 0;
+
+}
+.classtwo{
+    background-image: url(https://cdn.shopify.com/s/files/1/0907/2228/files/1_725c306e-386c-4914-bb42-72619775e028_360x.jpg?v=1675233478);
+    background-repeat: no-repeat;
+    z-index: -1;
+    top: -40px;
+    left: 320px;
+}
+.box7b{
+    height: 250px;
+    width: 500px;
+    margin-top: 160px;
+    margin-left: 870px;
+    line-height: 28px;
+}
+.box8{
+    height: 300px;
+    width: 100%;
+    display: flex;
+}
+.boxabc{
+    height: 300px;
+    display: flex;
+    margin: 0px 0px 0px 155px;
+}
+.box8a{
+    height: 250px;
+    width: 280px;
+    line-height: 20px;
+    margin-left: 65px;
+}
+.box9{
+    background: url(https://www.thrillophilia.com/blog/wp-content/uploads/2021/06/IMG_20170726_112219-1024x576.jpg);
+      width: 100%;
+  height: 650px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.box9a{
+    padding-top: 250px;
+    line-height: 80px;
+}
+.box10{
+    height: 120px;
+    width: 100%;
+    display: flex;
+    background-color: #f8f8f8d5;
+}
+.box10a{
+    height: 100px;
+    width: 350px;
+    text-align: center;
+    line-height: 35px;
+    padding: 30px;
+}
+.box11{
+    height: 420px;
+    width: 100%;
+    display: flex;
+}
+.box11a{
+    height: 300px;
+    width: 550px;
+    padding-left: 80px;
+}
+.box12{
+    height: 150px;
+    width: 100%;
+    border-top: 1px solid #e4eef3;
+    display: flex;
+}
+.box12a{
+    height: 50px;
+    width: 500px;
+    margin-top: 60px;
+    margin-left: 65px;
+}
+.box12b{
+    height: 50px;
+    width: 800px;
+    margin-top: 60px;
+    margin-left: 70px;
+}
